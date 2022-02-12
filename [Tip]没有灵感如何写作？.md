@@ -1,4 +1,7 @@
--[学会如何学习](https://book.douban.com/review/7428365/)
+# See:
+- [学会如何学习](https://book.douban.com/review/7428365/)
+
+# 1.  writers' block
 
 再分享书中提到的一个故事。John McPhee是《纽约客》的一位作者，他2013年的时候，写过一篇关于 writers' block 的文章（这个单词说的是你没有灵感，死活都写不出东西的状态）。John McPhee 的建议很简单：
 
