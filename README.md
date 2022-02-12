@@ -1,1 +1,1 @@
-# -
+- [为什么费曼技巧被称为终极学习法 (Why feynman technique works)](https://www.youtube.com/watch?v=7iNJyEbYDdc)
