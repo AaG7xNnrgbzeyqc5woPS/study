@@ -1,0 +1,4 @@
+- [全球最牛的三大搜书网站，在线自动抓取7000万册电子书，应有尽有](https://www.youtube.com/watch?v=ojx3FhAAQd0)
+- [z-lib](https://z-lib.org/)
+- [libgen](https://libgen.gs/)
+- [pdfdrive](https://www.pdfdrive.com/)
