@@ -34,4 +34,8 @@ n.
 ## 2. [Make It Stick 认知天性](https://www.bilibili.com/read/cv2878616/)
 - 我认为本书的核心在于强调将新鲜感应用到记忆提取这一方式来形成长期稳定的记忆。
 - 书的内容更多是具体的方法论，理论性的东西少
-![image](https://i0.hdslb.com/bfs/article/f5be46373a7533753d0d5cbaa58db7080e575420.png@942w_501h_progressive.png)
+
+
+![imagae](https://i0.hdslb.com/bfs/article/f5be46373a7533753d0d5cbaa58db7080e575420.png@942w_501h_progressive.png)
+-
+
