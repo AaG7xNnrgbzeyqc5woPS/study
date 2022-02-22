@@ -1,5 +1,8 @@
--《make it stick》 英文版，中文版，pdf,epub格式
+# 《Make It Stick 认知天性》
+直译书名1：《让记忆更持久》
+直译书名2：《如何让知识牢牢的粘在你的大脑里》
 
+-《make it stick》 英文版，中文版，pdf,epub格式
 - make it stick 坚持，坚持住，坚持到底；持续
 - make it  到达 ; 及时赶上参加 ; 成功 
 
